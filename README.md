@@ -6,3 +6,5 @@
 4) При правильном указании кредов БД проект запустится, где автоматический также запустится скрипт миграции БД для дальнейшей работы проекта
 
 ### Ссылка на Swagger документация: [http://localhost:8080/api](http://localhost:8080/swagger-ui/index.html#/)http://localhost:8080/swagger-ui/index.html#/
+
+### Стек использованных технологий: Java 17, Spring Boot 3.2.1, PostgreSQL
